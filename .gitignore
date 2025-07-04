@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+obj/
+*.csproj
+*.unityproj
+*.sln
+
+# VS Code
+.vscode/
+
+# macOS / Windows / Linux
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+logs/
