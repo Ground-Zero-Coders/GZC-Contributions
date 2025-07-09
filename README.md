@@ -1,2 +1,2 @@
 # GZC-Contributions
-Showcasing GZC's open source contributions: pull requests, issue fixes, docs, and feature enhancements across global open-source projects.
+A central place for Ground Zero Coders to share, build, and grow together.
