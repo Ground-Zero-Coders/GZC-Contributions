@@ -1,6 +1,6 @@
-# 🧠 Beginner Projects
+# 🧠 Projects
 
-Welcome to the beginner zone! 🚀  
+Welcome to the zone! 🚀  
 Here, you can contribute small scripts, apps, or mini-projects to practice and learn.
 
 ### ✅ Guidelines:
