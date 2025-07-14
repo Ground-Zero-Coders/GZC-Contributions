@@ -1,1 +1,23 @@
+# 📧 Email Automation using Python
+
+This project allows you to automate the process of sending emails using Python. It supports plain text messages, attachments, and scheduled sending.
+
+---
+
+## 🚀 Features
+
+- Send emails with subject and body
+- Attach any type of file (PDF, images, etc.)
+- Schedule emails to be sent at specific times
+- Securely handle login credentials
+- Easily customizable for personal or business use
+
+---
+
+## 🧰 Requirements
+
+Install the required packages:
+
+```bash
+pip install yagmail schedule python-dotenv
 
